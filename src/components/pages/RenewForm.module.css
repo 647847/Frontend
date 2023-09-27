@@ -1,0 +1,86 @@
+.form {
+    padding: 1rem;
+  }
+  
+  .item {
+    margin: 1rem 0;
+    border:1px;
+    box-shadow: 2px 3px 3px grey;
+    background-color: rgb(234, 237, 239);
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .control {
+    margin-bottom: 0.5rem;
+  }
+  
+  .control label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .control input,
+  .control textarea {
+    display: block;
+    font: inherit;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    padding: 0.25rem;
+    width: 100%;
+  }
+  
+  .actions {
+    margin-top: 1rem;
+    text-align: right;
+  }
+  
+  .actions button {
+    font: inherit;
+    cursor: pointer;
+    background-color: rgb(44, 44, 139);
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border: 1px solid rgb(44, 44, 139);
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
+  .actions button:hover,
+  .actions button:active {
+    background-color: #663ee9;
+    border-color: #663ee9;
+  }
+
+  .a1{
+    color: green;
+    margin: 1rem 0;
+    border:1px;
+    box-shadow: 2px 3px 3px grey;
+    background-color: rgb(234, 237, 239);
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .a2{
+    color: red;
+    margin: 1rem 0;
+    border:1px;
+    box-shadow: 2px 3px 3px grey;
+    background-color: rgb(234, 237, 239);
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .a3{
+    color: rgb(202, 122, 9);
+    margin: 1rem 0;
+    border:1px;
+    box-shadow: 2px 3px 3px grey;
+    background-color: rgb(234, 237, 239);
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
